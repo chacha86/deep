@@ -90,3 +90,4 @@ print(tst.shape)
 img = trd[0]
 plt.imshow(img)
 plt.show()
+# test
