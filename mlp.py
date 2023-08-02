@@ -67,7 +67,7 @@ def load(name):
 
 import sys, os
 sys.path.append(os.pardir)
-from tensorflow import keras
+# from tensorflow import keras
 import pickle
 
 # fashion_mnist = keras.datasets.fashion_mnist
@@ -90,4 +90,3 @@ print(tst.shape)
 img = trd[0]
 plt.imshow(img)
 plt.show()
-# test
