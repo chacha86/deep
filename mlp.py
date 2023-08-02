@@ -90,6 +90,3 @@ print(tst.shape)
 img = trd[11]
 plt.imshow(img)
 plt.show()
-
-
-
