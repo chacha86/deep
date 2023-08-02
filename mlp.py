@@ -87,6 +87,6 @@ print(tsd.shape)
 print(trt.shape)
 print(tst.shape)
 
-img = trd[0]
+img = trd[11]
 plt.imshow(img)
 plt.show()
